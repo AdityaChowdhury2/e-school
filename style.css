@@ -4,6 +4,9 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+section{
+    margin-bottom: 100px;
+}
 .header{
     background-color: #F0FFF0;
 }
@@ -39,4 +42,28 @@ a.default-button:hover{
 }
 .hero p{
     margin: 35px 0;
+}
+
+.categories{
+}
+.cat {
+    border-radius: 10px;
+    background: #F8FFFB;
+    margin-left: 15px;
+    padding: 45px 0;
+    cursor: pointer;
+}
+.cat:hover{
+    background: #FFFFFF;
+
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+.cat img{}
+.cat h5 {
+    font-size: 18px;
+    margin: 20px 0 10px 0;
+}
+.cat p{
+    color: #585859;
+
 }
