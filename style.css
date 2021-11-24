@@ -23,6 +23,20 @@ a.default-button {
     padding: 10px 25px;
 }
 a.default-button:hover{
-    background: #149159;
+    background: rgba(22, 161, 99,0.8);
     box-shadow: 2px 2px 5px #21B573;
+}
+.hero h6{
+    color: #FD511A;
+}
+.hero h1 {
+    font-weight: 700;
+    font-size: 61px;
+    margin: 30px 0;
+}
+.hero h1 span{
+    color: #21B573;
+}
+.hero p{
+    margin: 35px 0;
 }
