@@ -67,3 +67,35 @@ a.default-button:hover{
     color: #585859;
 
 }
+.online-course h1 {
+    font-size: 36px;
+    font-weight: 700;
+    color: #413960;
+    margin-bottom: 100px;
+}
+.card {
+    padding: 15px 15px 0 15px;
+    box-shadow: 1px 10px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+}
+.card-body{}
+.card-title{
+    color: #413960;
+}
+.card-body p {
+    margin-bottom: 0;
+    color: #585859;
+    font-size: 14px;
+}
+.card-body a{
+    margin: 25px 0;
+}
+.card-body div{}
+.card-body div div img {
+    width: 20px;
+}
+.card-body div div p {
+    margin-left: 3px;
+    font-weight: 500;
+    font-size: 14px;
+}
