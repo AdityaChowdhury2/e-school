@@ -99,3 +99,50 @@ a.default-button:hover{
     font-weight: 500;
     font-size: 14px;
 }
+.testimonial{
+    margin-bottom: 100px;
+}
+.testimonial h1 {
+    font-weight: 700;
+    font-size: 36px;
+    margin-bottom: 50px;
+}
+.testimonial img{
+    width: 120px;
+}
+.testimonial p {
+    margin-bottom: 0;
+    width: 600px;
+}
+.footer{
+    background-color: #282531;
+    color: #ffff;
+    margin-bottom: 0;
+}
+.footer ul{
+    list-style: none;
+}
+.footer ul li{
+    padding: 5px;
+
+}
+.footer ul li:first-child{
+    font-weight: 700;
+}
+.footer ul li a{
+    color: white;
+    text-decoration: none;
+}
+.footer ul li a:hover{
+    color: violet;
+}
+.footer small{
+    color: #CDCDCD;
+}
+.footer .col-md-3{
+    padding:0px;
+}
+.footer p {
+    width: 370px;
+    padding: 5px 0;
+}
