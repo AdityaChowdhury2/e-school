@@ -47,6 +47,7 @@ a.default-button:hover{
 .categories{
 }
 .cat {
+    height: 270px;
     border-radius: 10px;
     background: #F8FFFB;
     margin-left: 15px;
@@ -123,7 +124,7 @@ a.default-button:hover{
     list-style: none;
 }
 .footer ul li{
-    padding: 5px;
+    padding: 5px 0;
 
 }
 .footer ul li:first-child{
@@ -139,10 +140,11 @@ a.default-button:hover{
 .footer small{
     color: #CDCDCD;
 }
-.footer .col-md-3{
+.footer div{
     padding:0px;
 }
 .footer p {
     width: 370px;
     padding: 5px 0;
+    margin: auto;
 }
